@@ -75,7 +75,7 @@ button{
     box-shadow: 2px 2px 0.3px rgba(234, 255, 0, 0.664);
 }
 
-@media (max-width:667px) {
+@media (max-width:567px) {
     .process1{
         display: block;
     }
@@ -86,8 +86,8 @@ button{
     }
     .effect1{
         position: fixed;
-        bottom: 0;
-        left: 0;
+        bottom: 0px;
+        left: 0px;
         width: 100%;
     }
 
